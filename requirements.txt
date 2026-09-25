@@ -1,0 +1,5 @@
+python-telegram-bot
+requests
+groq
+google-auth-oauthlib
+google-api-python-client
